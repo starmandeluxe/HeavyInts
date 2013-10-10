@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//finds the "heavy" ints in a range of numbers
+//finds the number of "heavy" ints in a range of numbers
 //heavy int means the average of its digits is > 7
 public class HeavyInts {
 
